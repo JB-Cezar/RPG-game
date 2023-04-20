@@ -1,0 +1,452 @@
+[
+    {
+        "name": "Florida Mock Orange",
+        "exp": 10,
+        "hp": 42,
+        "atack": 12,
+        "def": 6,
+        "lv": 19,
+        "pic": "https://cdn-icons-png.flaticon.com/512/1205/1205643.png"
+    },
+    {
+        "name": "Black Hawthorn",
+        "exp": 11,
+        "hp": 44,
+        "atack": 47,
+        "def": 16,
+        "lv": 4,
+        "pic": "https://icons.iconarchive.com/icons/google/noto-emoji-smileys/256/10102-alien-monster-icon.png"
+    },
+    {
+        "name": "Carolina Ash",
+        "exp": 3,
+        "hp": 13,
+        "atack": 31,
+        "def": 44,
+        "lv": 13,
+        "pic": "https://icons.iconarchive.com/icons/google/noto-emoji-smileys/256/10102-alien-monster-icon.png"
+    },
+    {
+        "name": "Gigantochloa",
+        "exp": 2,
+        "hp": 14,
+        "atack": 20,
+        "def": 37,
+        "lv": 2,
+        "pic": "https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-3d/256/Alien-Monster-3d-icon.png"
+    },
+    {
+        "name": "Pacific Dewberry",
+        "exp": 3,
+        "hp": 84,
+        "atack": 33,
+        "def": 28,
+        "lv": 11,
+        "pic": "https://cdn-icons-png.flaticon.com/512/7585/7585663.png"
+    },
+    {
+        "name": "Guasimilla",
+        "exp": 6,
+        "hp": 53,
+        "atack": 21,
+        "def": 48,
+        "lv": 16,
+        "pic": "https://cdn-icons-png.flaticon.com/512/1205/1205643.png"
+    },
+    {
+        "name": "Fringedfern",
+        "exp": 3,
+        "hp": 98,
+        "atack": 1,
+        "def": 44,
+        "lv": 16,
+        "pic": "https://icons.iconarchive.com/icons/google/noto-emoji-smileys/256/10102-alien-monster-icon.png"
+    },
+    {
+        "name": "Villalba",
+        "exp": 9,
+        "hp": 57,
+        "atack": 5,
+        "def": 20,
+        "lv": 17,
+        "pic": "https://cdn-icons-png.flaticon.com/512/1137/1137128.png"
+    },
+    {
+        "name": "Coastal Hedgenettle",
+        "exp": 1,
+        "hp": 29,
+        "atack": 49,
+        "def": 20,
+        "lv": 3,
+        "pic": "https://icons.iconarchive.com/icons/google/noto-emoji-smileys/256/10102-alien-monster-icon.png"
+    },
+    {
+        "name": "Lobularia",
+        "exp": 7,
+        "hp": 36,
+        "atack": 24,
+        "def": 35,
+        "lv": 17,
+        "pic": "https://cdn-icons-png.flaticon.com/512/1137/1137128.png"
+    },
+    {
+        "name": "Netleaf Oak",
+        "exp": 10,
+        "hp": 68,
+        "atack": 40,
+        "def": 46,
+        "lv": 2,
+        "pic": "https://cdn-icons-png.flaticon.com/512/1137/1137128.png"
+    },
+    {
+        "name": "Kangaroo Grass",
+        "exp": 14,
+        "hp": 11,
+        "atack": 1,
+        "def": 29,
+        "lv": 12,
+        "pic": "https://icons.iconarchive.com/icons/google/noto-emoji-smileys/256/10102-alien-monster-icon.png"
+    },
+    {
+        "name": "Stemless Four-nerve Daisy",
+        "exp": 13,
+        "hp": 35,
+        "atack": 32,
+        "def": 27,
+        "lv": 12,
+        "pic": "https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-3d/256/Alien-Monster-3d-icon.png"
+    },
+    {
+        "name": "Parasitic Ghostplant",
+        "exp": 6,
+        "hp": 11,
+        "atack": 28,
+        "def": 44,
+        "lv": 1,
+        "pic": "https://icons.iconarchive.com/icons/google/noto-emoji-smileys/256/10102-alien-monster-icon.png"
+    },
+    {
+        "name": "New Mexico Rockdaisy",
+        "exp": 6,
+        "hp": 31,
+        "atack": 9,
+        "def": 13,
+        "lv": 5,
+        "pic": "https://cdn-icons-png.flaticon.com/512/1137/1137128.png"
+    },
+    {
+        "name": "Sporastatia Lichen",
+        "exp": 6,
+        "hp": 100,
+        "atack": 34,
+        "def": 21,
+        "lv": 2,
+        "pic": "https://cdn-icons-png.flaticon.com/512/7585/7585663.png"
+    },
+    {
+        "name": "Bandanna Of The Everglades",
+        "exp": 12,
+        "hp": 12,
+        "atack": 37,
+        "def": 19,
+        "lv": 2,
+        "pic": "https://cdn-icons-png.flaticon.com/512/7585/7585663.png"
+    },
+    {
+        "name": "American Globeflower",
+        "exp": 10,
+        "hp": 77,
+        "atack": 12,
+        "def": 16,
+        "lv": 19,
+        "pic": "https://icons.iconarchive.com/icons/google/noto-emoji-smileys/256/10102-alien-monster-icon.png"
+    },
+    {
+        "name": "Mesquite Mistletoe",
+        "exp": 2,
+        "hp": 62,
+        "atack": 10,
+        "def": 12,
+        "lv": 8,
+        "pic": "https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-3d/256/Alien-Monster-3d-icon.png"
+    },
+    {
+        "name": "Great Burnet",
+        "exp": 4,
+        "hp": 15,
+        "atack": 3,
+        "def": 31,
+        "lv": 2,
+        "pic": "https://icons.iconarchive.com/icons/google/noto-emoji-smileys/256/10102-alien-monster-icon.png"
+    },
+    {
+        "name": "Common Plantain",
+        "exp": 3,
+        "hp": 98,
+        "atack": 14,
+        "def": 41,
+        "lv": 16,
+        "pic": "https://icons.iconarchive.com/icons/google/noto-emoji-smileys/256/10102-alien-monster-icon.png"
+    },
+    {
+        "name": "Whitestem Gooseberry",
+        "exp": 3,
+        "hp": 32,
+        "atack": 19,
+        "def": 47,
+        "lv": 16,
+        "pic": "https://cdn-icons-png.flaticon.com/512/7585/7585663.png"
+    },
+    {
+        "name": "Cohitre Blanco",
+        "exp": 10,
+        "hp": 18,
+        "atack": 27,
+        "def": 31,
+        "lv": 16,
+        "pic": "https://cdn-icons-png.flaticon.com/512/1137/1137128.png"
+    },
+    {
+        "name": "African Dodder",
+        "exp": 15,
+        "hp": 97,
+        "atack": 38,
+        "def": 1,
+        "lv": 7,
+        "pic": "https://cdn-icons-png.flaticon.com/512/7585/7585663.png"
+    },
+    {
+        "name": "Dicranella Moss",
+        "exp": 15,
+        "hp": 57,
+        "atack": 28,
+        "def": 11,
+        "lv": 20,
+        "pic": "https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-3d/256/Alien-Monster-3d-icon.png"
+    },
+    {
+        "name": "Hooker's Manzanita",
+        "exp": 7,
+        "hp": 13,
+        "atack": 3,
+        "def": 15,
+        "lv": 1,
+        "pic": "https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-3d/256/Alien-Monster-3d-icon.png"
+    },
+    {
+        "name": "Porter's Sandmat",
+        "exp": 7,
+        "hp": 65,
+        "atack": 31,
+        "def": 16,
+        "lv": 4,
+        "pic": "https://icons.iconarchive.com/icons/google/noto-emoji-smileys/256/10102-alien-monster-icon.png"
+    },
+    {
+        "name": "Four O'clock",
+        "exp": 3,
+        "hp": 10,
+        "atack": 42,
+        "def": 24,
+        "lv": 3,
+        "pic": "https://cdn-icons-png.flaticon.com/512/1137/1137128.png"
+    },
+    {
+        "name": "Quillwort Arrowhead",
+        "exp": 6,
+        "hp": 66,
+        "atack": 34,
+        "def": 26,
+        "lv": 8,
+        "pic": "https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-3d/256/Alien-Monster-3d-icon.png"
+    },
+    {
+        "name": "Bald Cypress",
+        "exp": 3,
+        "hp": 25,
+        "atack": 4,
+        "def": 34,
+        "lv": 6,
+        "pic": "https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-3d/256/Alien-Monster-3d-icon.png"
+    },
+    {
+        "name": "Hairy Gumweed",
+        "exp": 8,
+        "hp": 70,
+        "atack": 36,
+        "def": 4,
+        "lv": 8,
+        "pic": "https://cdn-icons-png.flaticon.com/512/7585/7585663.png"
+    },
+    {
+        "name": "Keeled Bulrush",
+        "exp": 11,
+        "hp": 33,
+        "atack": 2,
+        "def": 21,
+        "lv": 10,
+        "pic": "https://cdn-icons-png.flaticon.com/512/7585/7585663.png"
+    },
+    {
+        "name": "Hawai'i Pilo Kea",
+        "exp": 14,
+        "hp": 20,
+        "atack": 32,
+        "def": 16,
+        "lv": 6,
+        "pic": "https://cdn-icons-png.flaticon.com/512/1137/1137128.png"
+    },
+    {
+        "name": "Sierra Foothill Silverpuffs",
+        "exp": 8,
+        "hp": 85,
+        "atack": 43,
+        "def": 45,
+        "lv": 19,
+        "pic": "https://icons.iconarchive.com/icons/google/noto-emoji-smileys/256/10102-alien-monster-icon.png"
+    },
+    {
+        "name": "Paleface",
+        "exp": 6,
+        "hp": 30,
+        "atack": 5,
+        "def": 34,
+        "lv": 13,
+        "pic": "https://cdn-icons-png.flaticon.com/512/7585/7585663.png"
+    },
+    {
+        "name": "Pammell's Dotted Lichen",
+        "exp": 13,
+        "hp": 89,
+        "atack": 1,
+        "def": 21,
+        "lv": 1,
+        "pic": "https://cdn-icons-png.flaticon.com/512/7585/7585663.png"
+    },
+    {
+        "name": "Sierra Horkelia",
+        "exp": 4,
+        "hp": 81,
+        "atack": 45,
+        "def": 33,
+        "lv": 16,
+        "pic": "https://cdn-icons-png.flaticon.com/512/1137/1137128.png"
+    },
+    {
+        "name": "Manyseed",
+        "exp": 10,
+        "hp": 16,
+        "atack": 13,
+        "def": 18,
+        "lv": 4,
+        "pic": "https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-3d/256/Alien-Monster-3d-icon.png"
+    },
+    {
+        "name": "Yucca",
+        "exp": 10,
+        "hp": 77,
+        "atack": 6,
+        "def": 28,
+        "lv": 14,
+        "pic": "https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-3d/256/Alien-Monster-3d-icon.png"
+    },
+    {
+        "name": "Ginseng",
+        "exp": 6,
+        "hp": 51,
+        "atack": 17,
+        "def": 39,
+        "lv": 17,
+        "pic": "https://cdn-icons-png.flaticon.com/512/7585/7585663.png"
+    },
+    {
+        "name": "Needle Stonecrop",
+        "exp": 9,
+        "hp": 35,
+        "atack": 36,
+        "def": 48,
+        "lv": 7,
+        "pic": "https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-3d/256/Alien-Monster-3d-icon.png"
+    },
+    {
+        "name": "Groovestem Indian Plantain",
+        "exp": 5,
+        "hp": 38,
+        "atack": 28,
+        "def": 38,
+        "lv": 5,
+        "pic": "https://icons.iconarchive.com/icons/google/noto-emoji-smileys/256/10102-alien-monster-icon.png"
+    },
+    {
+        "name": "Santa Rosa Basalt Brodiaea",
+        "exp": 6,
+        "hp": 17,
+        "atack": 18,
+        "def": 12,
+        "lv": 18,
+        "pic": "https://icons.iconarchive.com/icons/google/noto-emoji-smileys/256/10102-alien-monster-icon.png"
+    },
+    {
+        "name": "Richardson's Geranium",
+        "exp": 5,
+        "hp": 56,
+        "atack": 40,
+        "def": 44,
+        "lv": 6,
+        "pic": "https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-3d/256/Alien-Monster-3d-icon.png"
+    },
+    {
+        "name": "Sierra Bog Orchid",
+        "exp": 2,
+        "hp": 20,
+        "atack": 31,
+        "def": 49,
+        "lv": 13,
+        "pic": "https://cdn-icons-png.flaticon.com/512/1137/1137128.png"
+    },
+    {
+        "name": "Koolau Range Cheesewood",
+        "exp": 4,
+        "hp": 89,
+        "atack": 27,
+        "def": 17,
+        "lv": 3,
+        "pic": "https://icons.iconarchive.com/icons/google/noto-emoji-smileys/256/10102-alien-monster-icon.png"
+    },
+    {
+        "name": "Porter's Reedgrass",
+        "exp": 13,
+        "hp": 100,
+        "atack": 23,
+        "def": 43,
+        "lv": 13,
+        "pic": "https://cdn-icons-png.flaticon.com/512/1137/1137128.png"
+    },
+    {
+        "name": "Disc Lichen",
+        "exp": 9,
+        "hp": 24,
+        "atack": 50,
+        "def": 31,
+        "lv": 15,
+        "pic": "https://icons.iconarchive.com/icons/microsoft/fluentui-emoji-3d/256/Alien-Monster-3d-icon.png"
+    },
+    {
+        "name": "Pruit's Candytuft",
+        "exp": 1,
+        "hp": 51,
+        "atack": 16,
+        "def": 4,
+        "lv": 11,
+        "pic": "https://icons.iconarchive.com/icons/google/noto-emoji-smileys/256/10102-alien-monster-icon.png"
+    },
+    {
+        "name": "Beardless Rabbitsfoot Grass",
+        "exp": 11,
+        "hp": 35,
+        "atack": 27,
+        "def": 32,
+        "lv": 15,
+        "pic": "https://cdn-icons-png.flaticon.com/512/1137/1137128.png"
+    }
+]
