@@ -47,7 +47,7 @@ class Character{
      * @param {int} lv 
      * @param {img} pic
      */
-    constructor(name,exp=0,hp,atack,def,lv=1,pic){
+    constructor(name,exp=0,hp,atack,def,lv=1,pic=""){
         this.#name = name;
         this.#exp = exp;
         this.#hp = hp;

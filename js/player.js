@@ -17,7 +17,7 @@ class Player extends Character{
      * @param {int} lv 
      * @param {img} pic
      */
-    constructor(name,exp=0,hp,atack,def,lv=1,pic,type){
+    constructor(name,exp=0,hp,atack,def,lv=1,pic="",type){
         super(name,exp,hp,atack,def,lv,pic);
         this.#type = type
     }
