@@ -46,8 +46,6 @@ body {
     display: flex;
     flex-direction: column;
     row-gap: 5vh;
-    border: 2px solid black;
-    padding: 1%;
 }
 
 .monster li,
@@ -101,6 +99,12 @@ body {
 .monster > img,
 .player > img {
     width: 80%;
+}
+.monster > figcaption,
+.player > figcaption{
+    border: 2px solid black;
+    width: 160px;
+    padding: 5%;
 }
 table{
     display: flex;

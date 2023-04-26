@@ -34,3 +34,4 @@ class Player extends Character{
         return this.#type = type
     }
 }
+export default Player;

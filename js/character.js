@@ -5,37 +5,37 @@ class Character{
     /**
      * @var {string} name 
      */
-    #name;
+    _name;
 
     /**
      * @var {int} exp 
      */
-    #exp;
+    _exp;
 
     /**
      * @var {int} hp 
      */
-    #hp;
+    _hp;
 
     /**
      * @var {int} atack 
      */
-    #atack;
+    _atack;
 
     /**
      * @var {int} def 
      */
-    #def;
+    _def;
 
     /**
      * @var {int} lv 
      */
-    #lv;
+    _lv;
 
     /**
      * @var {img} pic
      */
-    #pic
+    _pic
 
     /**
      * 
@@ -48,13 +48,13 @@ class Character{
      * @param {img} pic
      */
     constructor(name,exp=0,hp,atack,def,lv=1,pic=""){
-        this.#name = name;
-        this.#exp = exp;
-        this.#hp = hp;
-        this.#atack = atack;
-        this.#def = def;
-        this.#lv = lv;
-        this.#pic = pic;
+        this._name = name;
+        this._exp = exp;
+        this._hp = hp;
+        this._atack = atack;
+        this._def = def;
+        this._lv = lv;
+        this._pic = pic;
     }
 
     /**
@@ -62,10 +62,10 @@ class Character{
      * @param {string} name 
      */
     getName(){
-        return this.#name;
+        return this._name;
     }
     setName(name){
-        return this.#name = name;
+        return this._name = name;
     }
 
     /**
@@ -73,11 +73,11 @@ class Character{
      * @param {int} exp 
      */
     getExp(){
-        return this.#exp;
+        return this._exp;
     }
 
     setExp(exp){
-        return this.#exp = exp;
+        return this._exp = exp;
     }
     
     /**
@@ -86,10 +86,10 @@ class Character{
      * @returns 
      */
     getHp(){
-        return this.#hp;
+        return this._hp;
     }
     setHp(hp){
-        return this.#hp = hp;
+        return this._hp = hp;
     }
 
     /**
@@ -98,10 +98,10 @@ class Character{
      * @returns 
      */
     getAtack(){
-        return this.#atack;
+        return this._atack;
     }
     setAtack(atack){
-        return this.#atack = atack;
+        return this._atack = atack;
     }
 
     /**
@@ -110,10 +110,10 @@ class Character{
      * @returns 
      */
     getDef(){
-        return this.#def;
+        return this._def;
     }
     setDef(def){
-        return this.#def = def;
+        return this._def = def;
     }
 
     /**
@@ -122,10 +122,10 @@ class Character{
      * @returns 
      */
     getLv(){
-        return this.#lv;
+        return this._lv;
     }
     setLv(lv){
-        return this.#lv = lv;
+        return this._lv = lv;
     }
 
     /**
@@ -134,10 +134,10 @@ class Character{
      * @returns 
      */
     getPic(){
-        return this.#pic;
+        return this._pic;
     }
     setPic(pic){
-        return this.#pic = pic;
+        return this._pic = pic;
     }
 
 }
